@@ -1,0 +1,16 @@
+﻿  main.cpp
+C:\Users\Alperen SAÇINTI\source\repos\BrickGameOpenGL\BrickGameOpenGL\main.cpp(49,22): warning C4305: 'başlatılıyor': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\Alperen SAÇINTI\source\repos\BrickGameOpenGL\BrickGameOpenGL\main.cpp(50,22): warning C4305: 'başlatılıyor': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\Alperen SAÇINTI\source\repos\BrickGameOpenGL\BrickGameOpenGL\main.cpp(328,20): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+C:\Users\Alperen SAÇINTI\source\repos\BrickGameOpenGL\BrickGameOpenGL\main.cpp(337,20): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+C:\Users\Alperen SAÇINTI\source\repos\BrickGameOpenGL\BrickGameOpenGL\main.cpp(389,21): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+C:\Users\Alperen SAÇINTI\source\repos\BrickGameOpenGL\BrickGameOpenGL\main.cpp(396,21): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+C:\Users\Alperen SAÇINTI\source\repos\BrickGameOpenGL\BrickGameOpenGL\main.cpp(403,21): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+C:\Users\Alperen SAÇINTI\source\repos\BrickGameOpenGL\BrickGameOpenGL\main.cpp(410,21): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+C:\Users\Alperen SAÇINTI\source\repos\BrickGameOpenGL\BrickGameOpenGL\main.cpp(428,21): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+C:\Users\Alperen SAÇINTI\source\repos\BrickGameOpenGL\BrickGameOpenGL\main.cpp(435,21): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+C:\Users\Alperen SAÇINTI\source\repos\BrickGameOpenGL\BrickGameOpenGL\main.cpp(451,21): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+C:\Users\Alperen SAÇINTI\source\repos\BrickGameOpenGL\BrickGameOpenGL\main.cpp(458,21): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+C:\Users\Alperen SAÇINTI\source\repos\BrickGameOpenGL\BrickGameOpenGL\main.cpp(476,26): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Alperen SAÇINTI\source\repos\BrickGameOpenGL\BrickGameOpenGL\main.cpp(482,26): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  BrickGameOpenGL.vcxproj -> C:\Users\Alperen SAÇINTI\source\repos\BrickGameOpenGL\Debug\BrickGameOpenGL.exe
